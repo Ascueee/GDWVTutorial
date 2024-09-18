@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Framework/BP_Gamemode.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Blueprints/Player/BP_FPCharacter.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Blueprints/Player/IMC_Default.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Blueprints/Player/InputActions/IA_Jump.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Blueprints/Player/InputActions/IA_Look.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Blueprints/Player/InputActions/IA_Move.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/BasicLevel.umap",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Blueprints/BP_FPCharacter.uasset"
+			]
+		}
+	]
+}
