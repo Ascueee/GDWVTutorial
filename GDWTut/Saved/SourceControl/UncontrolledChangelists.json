@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Repos/GDWVTutorial/GDWTut/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/Repos/GDWVTutorial/GDWTut/Content/Framework/BP_GameMode.uasset"
+				"D:/Repos/GDWVTutorial/GDWTut/Content/Framework/BP_GameMode.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut/Content/Blueprints/BP_Bullet.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut/Content/Blueprints/Turret.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/T9/JUK5B3QJ5IDFBK2G63XWPO.uasset"
 			]
 		}
 	]
