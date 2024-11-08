@@ -21,6 +21,23 @@
 				"D:/Repos/GDWVTutorial/GDWTut2/Content/Blueprints/BP_Objective.uasset",
 				"D:/Repos/GDWVTutorial/GDWTut2/Content/Blueprints/BP_Spawner.uasset",
 				"D:/Repos/GDWVTutorial/GDWTut2/Content/Blueprints/AI_Enemy.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Blueprints/Player/SpawnWidget.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/MainMenu.umap",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Blueprints/MainMenu.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/VFX_BEAM.uasset",
+				"D:/UE_5.3/Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/color.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/ambientSound.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/castle_guard_01.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Guard_02.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Guard_02__diffuse.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Guard_02__specular.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Guard_02__normal.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/castle_guard_01_Skeleton.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/castle_guard_01_PhysicsAsset.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Hip_Hop_Dancing.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/Dancing.uasset",
+				"D:/Repos/GDWVTutorial/GDWTut2/Content/GuardAnimBP.uasset",
 				"D:/Repos/GDWVTutorial/GDWTut2/Content/Blueprints/BP_FPCharacter.uasset"
 			]
 		}
